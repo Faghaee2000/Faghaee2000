@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatemeh</h1>
 <h3 align="center">A Data Scientist from Iran</h3>
-<img style="width: 50px; height: auto;" align="right" alt="Aghaei" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
-
+<img align="right" alt="Aghaei" width="150" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faghaee2000&label=Profile%20views&color=0e75b6&style=flat" alt="faghaee2000" /> </p>
 
 - 🔭 I’m currently working on **a personal machine learning project**
