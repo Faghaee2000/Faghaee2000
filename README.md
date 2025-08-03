@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatemeh</h1>
 <h3 align="center">A Data Scientist from Iran</h3>
-<img align = "right" alt = "Aghaei width ="50" src = "https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif"
+<img align = "right" alt = "Aghaei width ="50" src = "https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faghaee2000&label=Profile%20views&color=0e75b6&style=flat" alt="faghaee2000" /> </p>
 
