@@ -1,4 +1,4 @@
-![logo](https://github.com/Faghaee2000/Faghaee2000/blob/main/SL-122221-47450-01.jpg)
+![logo](https://github.com/Faghaee2000/Faghaee2000/blob/main/profile.jpg)
 <h1 align="center">👋</h1>
 <h3 align="center">A Data Scientist from Iran</h3>
 
