@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faghaee2000&label=Profile%20views&color=0e75b6&style=flat" alt="faghaee2000" /> </p>
 
-- 🔭 **I’m currently working as a freelancer.**
-
-- 🌱 I’m currently learning **Docker**
+- 🔭🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **fatemehaghaee2019@gmail.com**
 
